@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="loading_data">Loading data..</string>
+    <string name="search">Search</string>
+    <string name="temperature">%s</string>
+    <string name="feels_like_temperature">Feels Like %s</string>
+    <string name="temperature_with_degrees">Temp: %s</string>
+    <string name="lookup">Lookup</string>
+    <string name="city_name_placeholder">City Name</string>
+</resources>
